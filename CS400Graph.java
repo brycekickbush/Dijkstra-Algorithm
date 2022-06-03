@@ -1,11 +1,5 @@
-//--== CS400 File Header Information ==--
+
 //Name: <Bryce Kickbush>
-//Email: <kickbush@wisc.edu>
-//Team: <Blue>
-//Group: <EF>
-//TA: <Yelun Bao>
-//Lecturer: <Gary Dahl>
-//Notes to Grader:
 import java.util.ArrayList;
 import java.util.Hashtable;
 import java.util.List;
